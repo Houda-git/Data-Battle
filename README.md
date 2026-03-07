@@ -1,4 +1,4 @@
-# Lightning Event End Prediction
+# 🌩️ Lightning Event End Prediction
 
 ## Project Overview
 
